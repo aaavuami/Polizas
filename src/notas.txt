@@ -1,0 +1,26 @@
+
+//Sin Redux
+
+App:
+Lista de libros
+Funcion para seleccionar el libro
+libro seleccionado
+
+Lista:
+Lista de libros
+Funcion para seleccionar el libro
+
+Detalles:
+Libro seleccionado
+
+
+//Con Redux
+
+Componentes sin estados
+
+Reducers
+Lista de libros
+Libro seleccionado
+
+Action creator
+Funcion de seleccionar Libro

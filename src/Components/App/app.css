@@ -1,0 +1,20 @@
+
+.btnMas{
+  text-align: center;
+  background-color: maroon !important;
+  margin-left: -5px !important;
+  padding: 0px !important;
+  margin-bottom:100px !important;
+}
+
+.NombrePoliza, .NombreDescripcion{
+  text-transform: uppercase;
+}
+
+.SaltoInicial{
+  height: 100px;
+}
+
+.SaltoIntermedio{
+  height: 60px;
+}

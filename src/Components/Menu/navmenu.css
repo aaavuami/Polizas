@@ -1,0 +1,44 @@
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.container {
+  margin:0px;
+  max-width: 100%;
+}
+
+.TituloBanner{
+  font-weight: bold;
+  font-size: 24px;
+  color:white !important;
+  text-shadow: 10px 10px blue;
+}
+
+.imagenNav{
+  background-image: url(../../imagenes/bannerContabilidad.jpg);
+}
+
+.nav-link{
+  color:white !important;
+  font-weight:bold;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+  .nav-link{
+    display: inline;
+  }  
+}
